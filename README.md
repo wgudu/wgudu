@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wgudu
-- 👀 I’m interested in JavaEE, Drupal, PHP, React, JS
+- 👀 I’m interested in JavaEE, Docker, Drupal, PHP, React, JS
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on an app to bicycle sales consultant
 - 📫 How to reach me ... wgudu@hotmail.com
